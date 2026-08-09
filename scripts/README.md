@@ -11,7 +11,6 @@ Engineered a multi-OS virtualized infrastructure environment using **KVM/QEMU** 
 
 ---
 
-## Architecture Diagram
 
 ## Architecture Diagram
 
