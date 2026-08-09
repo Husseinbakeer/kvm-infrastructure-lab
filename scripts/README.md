@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+<!--cat << 'EOF' > README.md-->
 # Enterprise KVM/QEMU Virtualization Lab & Cockpit Management
 
 ![Linux](https://img.shields.io/badge/OS-Ubuntu%20%7C%20RHEL-orange?style=flat-square&logo=linux)
